@@ -46,7 +46,7 @@ template{display:none}
 body{background-color:#f9f9f9}
 .header-bgc{height:700px;width:100%;background-color:#abeafa;top:0}
 .footer-bgc{height:330px;width:100%;background-color:#373737;bottom:0}
-main{width:1170px;margin:0 auto;margin-top:-40px;font-family:Roboto,sans-serif}
+main{width:1170px;margin:0 auto;margin-top:-40px;font-family:'Roboto',sans-serif}
 header{width:1170px;margin:0 auto;height:700px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}
 footer{width:1170px;margin:0 auto;display:-webkit-box;display:-ms-flexbox;display:flex;height:330px;color:#fff;font-size:15px}
 .footer__bot-line{width:1170px;margin:0 auto;color:#fff;font-size:15px;line-height:50px}
